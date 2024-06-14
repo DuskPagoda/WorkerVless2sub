@@ -225,12 +225,12 @@ async function nginx() {
 	<p>If you see this page, the nginx web server is successfully installed and
 	working. Further configuration is required.</p>
 	
-	<p>For online documentation and support please refer to
-	<a href="http://nginx.org/">nginx.org</a>.<br/>
-	Commercial support is available at
-	<a href="http://nginx.com/">nginx.com</a>.</p>
+	<p>免费大容量不限速网盘
+	<a href="https://pan.alita.wiki/">pan.alita.wiki</a>.<br/>
+	你的私人网盘
+	<a href="https://pan.alita.wiki/">pan.alita.wiki</a>.</p>
 	
-	<p><em>Thank you for using nginx.</em></p>
+	<p><em>这货不是妹子</em></p>
 	</body>
 	</html>
 	`
